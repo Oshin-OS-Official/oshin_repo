@@ -1,15 +1,1 @@
-calamares-3.3.5-1-x86_64.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-sddm-theme-oshin-1.0-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-ckbcomp-1.226-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-downgrade-11.3.0-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-oshin_repo.files filter=lfs diff=lfs merge=lfs -text
-trizen-1:1.68-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-catppuccin-kde-theme-0.2.3-2-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-hblock-3.4.0-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-oshin_repo.db filter=lfs diff=lfs merge=lfs -text
-oshin-welcome-1-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
 activitywatch-bin-0.12.3b17-1-x86_64.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-mkinitcpio-openswap-0.1.0-3-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-oshin-grub-theme-1.0-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-oshin-icons-1.0-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
-python-ttkthemes-3.2.2-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
